@@ -1,0 +1,3 @@
+[submodule "wordpress/wp-content/plugins/csv-importer"]
+	path = wordpress/wp-content/plugins/csv-importer
+	url = https://github.com/masashimatsuda0113/csv-importer.git
